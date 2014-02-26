@@ -22,5 +22,3 @@
 
 // for more details see: http://emberjs.com/guides/application/
 AFLT2 = Ember.Application.create();
-
-//= require_tree .
