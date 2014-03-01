@@ -93,6 +93,7 @@ GEM
     rake (10.1.1)
     rdoc (4.1.1)
       json (~> 1.4)
+    redis (3.0.7)
     ref (1.0.5)
     sass (3.2.14)
     sass-rails (4.0.1)
@@ -142,6 +143,7 @@ DEPENDENCIES
   less-rails
   mysql2
   rails (= 4.0.2)
+  redis
   sass-rails (~> 4.0.0)
   sdoc
   therubyracer

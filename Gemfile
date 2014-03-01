@@ -52,3 +52,9 @@ gem "twitter-bootstrap-rails"
 # Use Ember
 gem "active_model_serializers"
 gem "ember-rails"
+
+# Use socket.io
+gem "redis"
+
+
+
